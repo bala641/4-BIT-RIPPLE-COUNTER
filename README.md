@@ -92,7 +92,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **Developed by: BALA B**
 
-**RegisteNumber: 249002438**
+**RegisteNumber: 24900698**
 
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
